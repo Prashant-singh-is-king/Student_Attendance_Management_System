@@ -1,0 +1,5 @@
+{
+  "name": "Attendify - Student Attendance Management System",
+  "description": "A comprehensive student attendance management system with admin and teacher modules, attendance tracking, analytics, and report generation.",
+  "requestFramePermissions": []
+}
